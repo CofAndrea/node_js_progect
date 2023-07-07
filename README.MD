@@ -21,14 +21,6 @@ A basic example of a possible structure for a ecommerce backend:
  npm start
 ```
 
-## Link.
-
-
-[https://medbreathe.netlify.app/](https://medbreathe.netlify.app/)
-
-
-## Author.
-
 Andrea Coffetti.
 
 [https://twitter.com/andrea_coffetti](https://twitter.com/andrea_coffetti).
