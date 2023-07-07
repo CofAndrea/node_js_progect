@@ -13,8 +13,9 @@ A basic example of a possible structure for a ecommerce backend:
 
 1. download zip and extract
 2. open in editor and run "npm install" in terminal to install dependencies 
-3. run "npm start" for starting a local host(currently using nodemon package)
-4. try it out: set up postman for testing
+3. create .env file and set values for MONGO_URI, JWT_SECRET, JWT_LIFETIME
+4. run "npm start" for starting a local host(currently using nodemon package)
+5. try it out: set up postman for testing
 ```
  cd my-directory
  npm install
