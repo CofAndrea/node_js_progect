@@ -3,11 +3,11 @@
 ## Description.
 
 A basic example of a possible structure for a ecommerce backend:
--3 models: Utente, Ordine, Prodotto
--CRUD functionality for each model
--Users created with a jsonwebtoken attached for authorizations
--a function place as an example for payment
--custom error handling with correct codes
+1. 3 models: Utente, Ordine, Prodotto
+2. CRUD functionality for each model
+3. Users created with a jsonwebtoken attached for authorizations
+4. Function placed as an example for payment inside prodottoController.js
+5. Custom error handling with correct codes
 
 ## Getting Started
 
